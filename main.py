@@ -1,3 +1,5 @@
+import art
+print(art.logo)
 alphabet="abcdefghijklmnopqrstuvwxyz"
 while True:
     direction=input("Type encode for encrypt or decode for decrypt: \n").lower()
